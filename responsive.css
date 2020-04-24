@@ -15,8 +15,7 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .team {
-    width: 50%;
-    margin-bottom: 50px;
+    width: 100%;
   }
   .header-right {
     display: none;
